@@ -18,7 +18,8 @@ from reportlab.lib.pagesizes import A4
 while True:
     audio = sr.Recognizer()
     maquina = pyttsx3.init()
-    maquina.say('Olá, meu nome é BÉTA, Qual função deseja acessar')
+    maquina.say('Olá, meu nome é BÉTA, Qual função deseja acessar, Pesquisa, Pomodóro, Datas, Gravador de voz, '
+                'toque, livro')
     maquina.runAndWait()
 
 
