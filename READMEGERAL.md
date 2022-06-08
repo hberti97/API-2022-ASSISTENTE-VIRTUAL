@@ -10,7 +10,6 @@
 # TABELA DE CONTEÚDO
 <-!---ts----> <br>
     * [Explicação](#Explicação) <br>
-    * [Equipe Beta 1](#Equipe-beta-1) <br>
     * [Requisitos do cliente](#Requisitos-do-cliente) <br>
     * [Backlog do produto](#backlog-do-produto) <br>
     * [Backlog sprint 1](#Backlog-sprint-1) <br>
@@ -32,18 +31,6 @@ BETA é uma assistente virtual que tem como objetivo auxiliar os alunos nos seus
 Leia atentamente o manual de instruções para que a BETA seja executada corretamente.
 
 Obrigado!!
-
-# EQUIPE BETA 1
-
-* Alan Fabrício Morato
-* Marcela Ribeiro de Melo
-* Ariane Cristine Alves de Sousa
-* Damares Rosa das Montanhas
-* Elizabeth Cristina Alves Leite
-* Larissa Tomé de Souza
-* Luiz Henrique Berti
-* Tobias Fernandes Bezerra Sousa
-* Vitória Brancatti Ramos  Lopes Batista
 
 # REQUISITOS DO CLIENTE
 
