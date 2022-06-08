@@ -13,7 +13,6 @@
 # TABELA DE CONTEÚDO
 <-!---ts----> <br>
     * [Explicação](#Explicação) <br>
-    * [Equipe Beta 1](#Equipe-beta-1) <br>
     * [Funcionalidades](#Funcionalidades) <br>
     * [Bibliotecas](#Bibliotecas) <br>
 
@@ -22,17 +21,6 @@
 # EXPLICAÇÃO
 
 Essa documentação tem como objetivo direcionar o uso da nossa assistente virtual.
-
-# EQUIPE BETA 1
-
-* Alan Fabrício Morato
-* Marcela Ribeiro de Melo
-* Ariane Cristine Alves de Sousa
-* Elizabeth Cristina Alves Leite
-* Larissa Tomé de Souza
-* Luiz Henrique Berti
-* Tobias Fernandes Bezerra Sousa
-* Vitória Brancatti Ramos  Lopes Batista
 
 
 # FUNCIONALIDADES
